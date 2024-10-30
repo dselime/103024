@@ -56,7 +56,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: #e0f7fa;
+    background-color: #fae0e7;
     border-radius: 6px;
     margin-bottom: 10px;
     font-size: 16px;
@@ -64,11 +64,11 @@
   }
   
   .todo-item:nth-child(even) {
-    background-color: #f2b2dc;
+    background-color: #f2b2c6;
   }
   
   .delete-btn {
-    background-color: #fb1e9f;
+    background-color: #fb1e6b;
     color: #fff;
     border: none;
     padding: 8px;
